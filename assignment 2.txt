@@ -1,0 +1,11 @@
+Assignment2 .Explain three dimensional data indexing?
+Ans.It contains 70 indicators for development,organised along three dimensional of improvement.Policies, practices and cultures.
+2.What are the difference between a series and a data frame?
+Ans.Series is a one dimensional object that can any data type,it can be into float,string or anything.Data frame is a two dimensional objects.It had columns and rows.
+3.What role does pandas play in data cleaning?
+Ans.As we know that,Data science is the discipline of study which involves extracting insights from huge amounts of data by the uses of various scientific methods, algorithms,and processes.
+4.How do you use of pandas to make a data frame out of n dimensional arrays?
+Ans.1 import pandas as pd# creat the data frame off =pd data frame (numpy_array)
+2.df=pd Data frame(numpy array columns)
+5.Explain the notion of pandas plotting?
+Ans.Pandas uses the plot () method to create diagram.We can use pilot a submodule of the matplotlib library to visualise the diagram on the screen
